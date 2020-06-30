@@ -1,3 +1,5 @@
+#@author: kaan
+
 # ==============================================================
 # ****** kısımlarına kullanıcı adınızı ve şifrenizi giriniz.
 # timesleep süreleri rastgele belirlenmiştir, browser kendine
